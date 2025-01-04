@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there! I am Limbani, A Software Engineer with a passion for Web technologies and Operating Systems! 
 
-## I am Limbani, A CS Major with a passion for web technologies and Operating Systems! 
+
 <!--
 **LimbaniC/LimbaniC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
