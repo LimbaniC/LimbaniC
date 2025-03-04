@@ -1,4 +1,4 @@
-## Hi! I am Limbani, A Software Engineer with a passion for AI and Devops!⚡
+## Hi! I am Limbani, A Software Engineer with a passion for Systems!⚡
 
 
 <!--
