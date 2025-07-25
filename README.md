@@ -1,5 +1,4 @@
-## Hi! I am Limbani, A Software Engineer with a passion for Systems!⚡
-
+## Hi! I am Joshua Limbani Chaponda, A Software Engineer with a passion for building simple interfaces between large system and low level infrastructure!⚡
 
 <!--
 **LimbaniC/LimbaniC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
