@@ -1,5 +1,5 @@
 ## Building simple interfaces between large systems and low level infrastructure!⚡
-## I love: Operating Systems  WASM, Cloud Native technologies and Observability##
+🌱 I'm currently learning about: Operating Systems,  WASM, Cloud Native technologies and Observability
 
 <!--
 **LimbaniC/LimbaniC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
